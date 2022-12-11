@@ -3,6 +3,8 @@
   "displayName": "DSText Syntax",
   "description": "Syntax Highlighting for DSText Files",
   "version": "1.0.0",
+  "repository": "https://github.com/digiwombat/DSText-Extension",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.74.0"
   },
