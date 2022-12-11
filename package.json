@@ -1,0 +1,25 @@
+{
+  "name": "dstext-syntax",
+  "displayName": "DSText Syntax",
+  "description": "Syntax Highlighting for DSText Files",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "dstext",
+      "aliases": ["DSText", "dstext"],
+      "extensions": [".dstext"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "dstext",
+      "scopeName": "source.dstext",
+      "path": "./syntaxes/dstext.tmLanguage.json"
+    }]
+  }
+}
