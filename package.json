@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/digiwombat/DSText-Extension",
   "license": "MIT",
+  "publisher": "digiwombat",
   "engines": {
     "vscode": "^1.74.0"
   },
