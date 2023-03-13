@@ -157,6 +157,11 @@
 					"match": "#[^\\s]+"
 				},
 				{
+					"comment": "Character Name",
+					"name": "constant.numeric",
+					"match": "^\\s*\\w*:"
+				},
+				{
 					"comment": "Shortcut option",
 					"name": "keyword.control",
 					"match": "^\\s*-\\>"
