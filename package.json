@@ -2,7 +2,7 @@
   "name": "dstext-syntax",
   "displayName": "DSText Syntax",
   "description": "Syntax Highlighting for DSText Files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/digiwombat/DSText-Extension",
   "license": "MIT",
   "publisher": "digiwombat",
